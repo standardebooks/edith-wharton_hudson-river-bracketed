@@ -28,13 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Hudson River Bracketed</dc:title>
 		<meta property="file-as" refines="#title">Hudson River Bracketed</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Hudson River Valley (N.Y. and N.J.) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Novelists -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008115368</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="term" refines="#subject-2">sh2008108193</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -42,20 +42,19 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks04/0400701h.html</dc:source>
 		<dc:source>https://archive.org/details/hudsonriverbrack0000edit_u6y6</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edith-wharton_hudson-river-bracketed</meta>
 		<dc:creator id="author">Edith Wharton</dc:creator>
 		<meta property="file-as" refines="#author">Wharton, Edith</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edith Newbold Wharton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edith_Wharton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79151500</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jasper Francis Cropsey</dc:contributor>
+		<meta property="file-as" refines="#artist">Cropsey, Jasper Francis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80026719</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Don Lainson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lainson, Don</meta>
