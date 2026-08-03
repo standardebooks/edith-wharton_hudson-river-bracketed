@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edith-wharton/hudson-river-bracketed</dc:identifier>
 		<dc:date>2025-01-01T09:01:00Z</dc:date>
@@ -37,8 +37,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008108193</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young Midwestern man of modest means seeks to enter the literary world of 1920s New York.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young Midwestern man of modest means seeks to enter the literary world of 1920s New York.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Nineteen-year-old Vance Weston has grown up in the fictional Midwestern town of Euphoria, Illinois. Though under pressure to join his father in real estate, Vance aspires to be a poet. After falling ill just as he is supposed to choose his profession, he convalesces for a while at home until a doctor suggests time away in a better climate would aid his recovery.&lt;/p&gt;
 			&lt;p&gt;Vance chooses to stay with relatives, the Tracys, in a small town not far from New York City; his hope is that he might be able to visit the latter during his stay and get his foot in the door of the literary world. The Tracys are caretakers for an old house owned by the much wealthier Spear family. Vance accompanies his cousins to the house, which is in the titular Hudson River Bracketed architectural style. In its library he meets a young woman from the Spear family, Heloise, known as “Halo.” This chance encounter is the first in a series of coincidences that will enable Vance’s writerly dreams to take shape.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Hudson River Bracketed&lt;/i&gt; differs from most of &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton’s&lt;/a&gt; novels in that its protagonist is both male and materially disadvantaged. Having distanced the main character from her own life in these two respects, Wharton allowed herself, it’s widely thought, to be more freely autobiographical in portraying her experiences as a fledgling novelist.&lt;/p&gt;
@@ -46,7 +46,7 @@
 			&lt;p&gt;Other themes of the book are the effects of social class and material resources on literary achievement; religious and publishing trends; marriage and divorce; and the majesty of the natural environment, in particular the Hudson River Valley. In connection with this last focus, scholar Judith Saunders has also argued that the book is an extended meditation on the poem “Kubla Khan” by &lt;a href="https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge"&gt;Samuel Taylor Coleridge&lt;/a&gt;, which is the subject of Vance and Halo’s first verbal exchange.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Hudson River Bracketed&lt;/i&gt; was first serialized without Wharton’s permission in 1928, resulting in a frenzied rush to finish it, which biographers speculate may have contributed to the illnesses of her final years. The novel was published in its entirety in 1929, when Wharton was 67. It’s her longest novel, and among the five she consistently listed as her favorites within her oeuvre. Biographer R. W. B. Lewis reports her having said: “I am sure it is my best book.” Critics and readers didn’t agree; it has never been popular. However, even its detractors admire her rich descriptions of the Hudson River Valley setting.&lt;/p&gt;
 			&lt;p&gt;Wharton published a sequel to &lt;i&gt;Hudson River Bracketed&lt;/i&gt; in 1932, five years before her death at 75.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks04/0400701h.html</dc:source>
 		<dc:source>https://archive.org/details/hudsonriverbrack0000edit_z0w2</dc:source>
