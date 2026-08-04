@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008108193</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Midwestern man of modest means seeks to enter the literary world of 1920s New York.</dc:abstract>
+		<meta property="schema:abstract">A young Midwestern man of modest means seeks to enter the literary world of 1920s New York.</meta>
 		<dc:description>
 			&lt;p&gt;Nineteen-year-old Vance Weston has grown up in the fictional Midwestern town of Euphoria, Illinois. Though under pressure to join his father in real estate, Vance aspires to be a poet. After falling ill just as he is supposed to choose his profession, he convalesces for a while at home until a doctor suggests time away in a better climate would aid his recovery.&lt;/p&gt;
 			&lt;p&gt;Vance chooses to stay with relatives, the Tracys, in a small town not far from New York City; his hope is that he might be able to visit the latter during his stay and get his foot in the door of the literary world. The Tracys are caretakers for an old house owned by the much wealthier Spear family. Vance accompanies his cousins to the house, which is in the titular Hudson River Bracketed architectural style. In its library he meets a young woman from the Spear family, Heloise, known as “Halo.” This chance encounter is the first in a series of coincidences that will enable Vance’s writerly dreams to take shape.&lt;/p&gt;
